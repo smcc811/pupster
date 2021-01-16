@@ -1,9 +1,8 @@
 import React from "react";
-import helloBootstrap from "./components/HelloBootstrap/helloBootstrap";
+import JSXVariables from "./components/JSXVariables";
 
 function App() {
-  return <helloBootstrap/>; 
-
+  return <JSXVariables />;
 }
 
 export default App;
